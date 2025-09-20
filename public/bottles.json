@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "volume": 500,
+    "price": 1.5,
+    "available": true,
+    "color": "blue",
+    "image": "https://example.com/images/aquafina.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Evian",
+    "volume": 750,
+    "price": 3.0,
+    "available": true,
+    "color": "white",
+    "image": "https://example.com/images/evian.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Nestlé",
+    "volume": 330,
+    "price": 1.0,
+    "available": false,
+    "color": "light blue",
+    "image": "https://example.com/images/nestle.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Fiji",
+    "volume": 500,
+    "price": 2.5,
+    "available": true,
+    "color": "teal",
+    "image": "https://example.com/images/fiji.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Smartwater",
+    "volume": 700,
+    "price": 2.0,
+    "available": true,
+    "color": "gray",
+    "image": "https://example.com/images/smartwater.jpg"
+  }
+]

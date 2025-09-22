@@ -56,7 +56,7 @@ const Bottles = ({ bottlesPromise }) => {
     // console.log(bottles);
     return (
         <div>
-            <h3>Bottle: {bottles.length}</h3>
+            <h3>Bottl: {bottles.length}</h3>
             <p>Added to cart : {cart.length} </p>
 
             <Cart cart={cart} handleRemoveFromCart={handleRemoveFromCart}></Cart>
